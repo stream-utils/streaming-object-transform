@@ -94,8 +94,6 @@ describe('Streaming Object Transform', () => {
     })
     stream.push(null)
 
-    let counter = 0
-
     stream.pipe(transform())
     .on('error', err => {
       assert.equal(err.message, 'boom')
