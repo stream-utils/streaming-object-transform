@@ -38,12 +38,12 @@ app.use((req, res, next) => {
 
 [npm-image]: https://img.shields.io/npm/v/streaming-object-transform.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/streaming-object-transform
-[travis-image]: https://img.shields.io/travis/jonathanong/streaming-object-transform.svg?style=flat-square
-[travis-url]: https://travis-ci.org/jonathanong/streaming-object-transform
-[codecov-image]: https://img.shields.io/codecov/c/github/jonathanong/streaming-object-transform/master.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/jonathanong/streaming-object-transform
-[david-image]: http://img.shields.io/david/jonathanong/streaming-object-transform.svg?style=flat-square
-[david-url]: https://david-dm.org/jonathanong/streaming-object-transform
+[travis-image]: https://img.shields.io/travis/stream-utils/streaming-object-transform.svg?style=flat-square
+[travis-url]: https://travis-ci.org/stream-utils/streaming-object-transform
+[codecov-image]: https://img.shields.io/codecov/c/github/stream-utils/streaming-object-transform/master.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/stream-utils/streaming-object-transform
+[david-image]: http://img.shields.io/david/stream-utils/streaming-object-transform.svg?style=flat-square
+[david-url]: https://david-dm.org/stream-utils/streaming-object-transform
 [license-image]: http://img.shields.io/npm/l/streaming-object-transform.svg?style=flat-square
 [license-url]: LICENSE
 [downloads-image]: http://img.shields.io/npm/dm/streaming-object-transform.svg?style=flat-square
