@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "babel-eslint": "4",
-    "codecov": "1",
+    "codecov": "3",
     "eslint": "1",
     "eslint-config-jongleberry": "^1.0.3",
     "eslint-config-standard": "4",
